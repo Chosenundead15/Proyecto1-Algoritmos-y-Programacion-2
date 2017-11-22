@@ -1,0 +1,60 @@
+
+1001
+Calculo I
+Matematicas
+I
+4
+
+1002
+Calculo II
+Matematicas
+II
+4
+
+1003
+Calculo III
+Matematicas
+III
+4
+
+1004
+Calculo IV
+Matematicas
+IV
+4
+
+2001
+Fisica I
+Fisica Estatica
+II
+3
+
+2002
+Fisica II
+Fisica dinamica
+III
+3
+
+2003
+Circuitos
+Eletrica
+IV
+3
+
+3001
+Programacion I
+Lenguaje pascal
+II
+4
+
+3002
+Programacion II
+Lenguaje C
+III
+4
+
+3003
+Programcion III
+java
+IV
+4
